@@ -20,6 +20,16 @@
 - 🎓 **BS Computer Science**, COMSATS University Islamabad (2020 to 2024)
 - 📍 Rawalpindi, Pakistan · open to on-site, hybrid and remote roles
 
+## What I'm great at
+
+| | |
+|---|---|
+| ⚡ **Performance optimization** | Core Web Vitals, WebP image pipelines, LCP and CLS fixes, response caching, removing N+1 queries, database indexing |
+| 🧪 **Testing and quality** | PHPUnit, Vitest and Playwright tests, Lighthouse audits, code reviews, debugging production issues |
+| 🤖 **AI-assisted development** | I ship faster with Claude Code and Cursor in my daily workflow; ML and data analysis foundations (Google Advanced Data Analytics) |
+| 🔍 **Technical SEO** | Server-side rendering, canonical URLs, JSON-LD structured data, sitemaps, Open Graph |
+| 🔴 **Real-time apps** | Live dashboards with Laravel Echo and Pusher, role-based permissions with CASL |
+
 ## What I'm building at work
 
 | Project | What it is | Stack |
