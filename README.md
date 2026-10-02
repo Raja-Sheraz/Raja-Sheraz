@@ -41,14 +41,13 @@
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,py,django,nodejs,vue,nuxtjs,react,nextjs,ts,tailwind,mysql,postgres,mongodb,docker,git,githubactions&perline=9" alt="Laravel, PHP, Python, Django, Node.js, Vue, Nuxt, React, Next.js, TypeScript, Tailwind CSS, MySQL, PostgreSQL, MongoDB, Docker, Git, GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=laravel,php,py,django,nodejs,express,vue,nuxtjs,react,nextjs,ts,tailwind,mysql,postgres,mongodb,docker,git,githubactions&perline=9" alt="Laravel, PHP, Python, Django, Node.js, Express, Vue, Nuxt, React, Next.js, TypeScript, Tailwind CSS, MySQL, PostgreSQL, MongoDB, Docker, Git, GitHub Actions">
 </p>
 
-## GitHub activity
+## 2026 at a glance
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raja-Sheraz&show_icons=true&count_private=true&include_all_commits=true&title_color=22d3ee&icon_color=3b82f6&text_color=dbe4f3&bg_color=0b1842&hide_border=true&border_radius=12" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-Sheraz&layout=compact&langs_count=6&title_color=22d3ee&text_color=dbe4f3&bg_color=0b1842&hide_border=true&border_radius=12" alt="Most used languages">
+  <img src="./assets/highlights.png" alt="2026 at a glance: 810 contributions in the last 12 months, 597 commits across 3 production codebases, 108 pull requests merged, #1 contributor on Trvler with 360 commits" width="100%">
 </p>
 
 <p align="center">
