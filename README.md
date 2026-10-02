@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=22&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=720&lines=Building+Trvler%2C+a+live+travel+platform+(Nuxt+%2B+Laravel);Real-time+coaching+dashboards+with+Vue+%2B+Laravel+Echo;Open+to+on-site%2C+hybrid+and+remote+roles" alt="Building Trvler, a live travel platform. Real-time coaching dashboards. Open to on-site, hybrid and remote roles.">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus%20Jakarta%20Sans&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Full%20Stack%20Developer%20%C2%B7%20Laravel%20%C2%B7%20Vue.js%20%C2%B7%20Nuxt%20%C2%B7%20Django%3BI%20build%20fast%2C%20scalable%20web%20apps%20from%20database%20to%20UI%3BPerformance%20optimization%20%C2%B7%20Testing%20%C2%B7%20Technical%20SEO%3BAI-assisted%20development%20with%20Claude%20Code%20and%20Cursor%3BOpen%20to%20on-site%2C%20hybrid%20and%20remote%20roles" alt="Full Stack Developer: Laravel, Vue.js, Nuxt, Django. I build fast, scalable web apps from database to UI. Performance optimization, testing, technical SEO. AI-assisted development with Claude Code and Cursor. Open to on-site, hybrid and remote roles.">
 </p>
 
 <p align="center">
