@@ -43,7 +43,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [ProjectFlow (Nuxt)](https://github.com/Raja-Sheraz/projectflow-nuxt) | Task and team management app with a drag-and-drop Kanban board, admin/member roles and protected routes, plus full technical SEO (SSR, canonical URLs, JSON-LD, sitemap). | Nuxt 4 · Vue 3 · Pinia · TypeScript · Tailwind |
+| [ProjectFlow (Nuxt)](https://github.com/Raja-Sheraz/projectflow-nuxt) <br> **[Live demo →](https://raja-sheraz.github.io/projectflow-nuxt/)** | Task and team management app with a drag-and-drop Kanban board, admin/member roles and protected routes, plus full technical SEO (SSR, canonical URLs, JSON-LD, sitemap). Unit tested, with CI and automated deployment. | Nuxt 4 · Vue 3 · Pinia · TypeScript · Tailwind |
 | [PGMS: Final Year Project](https://github.com/Raja-Sheraz/Raja-Sheraz-PGMS-Paperless-Graduate-Management-System-e-in-MERN-) | Paperless graduate management system: online thesis and proposal submission, multi-level approvals (Supervisor → Committee → DAC → Dean) and PDF reports. | MongoDB · Express · React · Node.js · MUI |
 | [Fiverr Clone](https://github.com/Raja-Sheraz/Fiver-CLone) | Freelance marketplace with JWT login, gig listings, search and filters, and orders. | MERN · JWT |
 | [Town Management App](https://github.com/Raja-Sheraz/Town-Management-in-React-Native-Mobile-App) | Mobile app for properties, announcements, events and complaints, with offline SQLite storage. | React Native · SQLite |
