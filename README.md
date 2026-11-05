@@ -34,7 +34,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Trvler](https://trvler.co)** | Live travel discovery platform for destinations, hotels, restaurants, attractions and travel stories. I build the server-rendered Nuxt frontend (technical SEO, Core Web Vitals) and the Laravel REST API and admin panel. | Nuxt 4 · Vue 3 · TypeScript · Laravel · MySQL |
+| **[Trvler](https://trvler.co)** | Live travel discovery platform for destinations, hotels, restaurants, attractions and travel stories. I build the server-rendered frontend (technical SEO, Core Web Vitals) and the Laravel REST API and admin panel, and migrated the frontend from Nuxt 4 to Next.js 16. | Next.js 16 · React 19 · TypeScript · Laravel · MySQL |
 | **Coach** | Real-time, tablet-first American football coaching dashboard. Head, assistant and scoreboard coaches share live play calls, scores, the game clock and substitutions. | Vue 3 · Pinia · Laravel Echo · Pusher · CASL |
 
 <sub>Both are client projects in private repositories, so the code isn't public. My commits to them are counted in the contribution graph below.</sub>
@@ -54,10 +54,10 @@
   <img src="https://skillicons.dev/icons?i=laravel,php,py,django,nodejs,express,vue,nuxtjs,react,nextjs,ts,tailwind,mysql,postgres,mongodb,docker,git,githubactions&perline=9" alt="Laravel, PHP, Python, Django, Node.js, Express, Vue, Nuxt, React, Next.js, TypeScript, Tailwind CSS, MySQL, PostgreSQL, MongoDB, Docker, Git, GitHub Actions">
 </p>
 
-## 2026 at a glance
+## At a glance
 
 <p align="center">
-  <img src="./assets/highlights.png" alt="2026 at a glance: 810 contributions in the last 12 months, 597 commits across 3 production codebases, 108 pull requests merged, #1 contributor on Trvler with 360 commits" width="100%">
+  <img src="./assets/highlights.svg" alt="Live numbers from my work: contributions in the last 12 months, commits authored across public and private repositories, pull requests reviewed and merged, and commits to my most active codebase. Regenerated daily from the GitHub API." width="100%">
 </p>
 
 <p align="center">

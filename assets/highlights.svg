@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="942 contributions in the last 12 months, 805 commits authored across public and private repositories, 145 pull requests merged, and 360 commits to trvler-new, my most active codebase.">
+  <title>942 contributions in the last 12 months, 805 commits authored across public and private repositories, 145 pull requests merged, and 360 commits to trvler-new, my most active codebase.</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1842"/>
+      <stop offset="100%" stop-color="#16307A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="290" rx="18" fill="url(#bg)"/>
+
+  <text x="40" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2.5" fill="#56C7E8">AT A GLANCE</text>
+  <text x="40" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">Live numbers from my work</text>
+  <text x="1160" y="52" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#8FA6D4">Updated automatically &#183; Nov 2026</text>
+
+  <g transform="translate(40, 118)">
+    <rect width="262" height="118" rx="12" fill="#12235C" stroke="#1E3A8A"/>
+    <text x="22" y="50" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#FFFFFF">942</text>
+    <text x="22" y="76" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#DBE6FF">contributions</text>
+    <text x="22" y="97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#8FA6D4">in the last 12 months</text>
+  </g>
+  <g transform="translate(326, 118)">
+    <rect width="262" height="118" rx="12" fill="#12235C" stroke="#1E3A8A"/>
+    <text x="22" y="50" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#FFFFFF">805</text>
+    <text x="22" y="76" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#DBE6FF">commits</text>
+    <text x="22" y="97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#8FA6D4">authored, public and private</text>
+  </g>
+  <g transform="translate(612, 118)">
+    <rect width="262" height="118" rx="12" fill="#12235C" stroke="#1E3A8A"/>
+    <text x="22" y="50" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#FFFFFF">145</text>
+    <text x="22" y="76" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#DBE6FF">pull requests</text>
+    <text x="22" y="97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#8FA6D4">reviewed and merged</text>
+  </g>
+  <g transform="translate(898, 118)">
+    <rect width="262" height="118" rx="12" fill="#12235C" stroke="#1E3A8A"/>
+    <text x="22" y="50" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#FBBF24">360</text>
+    <text x="22" y="76" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#DBE6FF">commits to trvler-new</text>
+    <text x="22" y="97" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#8FA6D4">my most active codebase</text>
+  </g>
+
+  <text x="40" y="268" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#7E95C6">Counted from the GitHub API, including private repositories. Regenerated daily by a GitHub Action.</text>
+</svg>
